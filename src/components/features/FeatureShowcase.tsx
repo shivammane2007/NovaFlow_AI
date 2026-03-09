@@ -5,6 +5,7 @@ import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { Bot, Workflow, Puzzle, Cpu, Users } from "lucide-react";
 import { PixelCanvas } from "@/components/ui/pixel-canvas";
+import AgentBeamVisualization from "@/components/ui/AgentBeamVisualization";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -117,6 +118,12 @@ export function FeatureShowcase() {
                                 colors={["#d4af37", "#1f1f1f", "#eaddb6"]}
                                 className="absolute inset-0 opacity-0 group-hover:opacity-30 transition-opacity duration-700"
                             />
+
+                            {index === 0 && (
+                                <div className="absolute inset-0 flex items-center justify-center p-8 z-[1] w-[95%] mx-auto mt-4">
+                                    <AgentBeamVisualization />
+                                </div>
+                            )}
 
                             <div className="relative z-10 flex flex-col h-full">
                                 <div className="w-16 h-16 rounded-2xl bg-muted/10 flex items-center justify-center mb-8 group-hover:scale-110 transition-transform duration-300 border border-border/50">
