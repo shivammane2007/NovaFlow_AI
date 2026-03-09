@@ -1,0 +1,2026 @@
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+
+thread 'tokio-runtime-worker' (66308) panicked at library\std\src\io\stdio.rs:1165:9:
+failed printing to stdout: Insufficient system resources exist to complete the requested service. (os error 1450)
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+-----
+[1m[31mFATAL[39m[0m: An unexpected Turbopack error occurred. A panic log has been written to C:\Users\shiva\AppData\Local\Temp\next-panic-3c2aecac4d17c8eae6e96055f20bfb98.log.
+
+To help make Turbopack better, report this error by ]8;;https://github.com/vercel/next.js/discussions/new?category=turbopack-error-report&title=Turbopack%20Error%3A%20%5Bproject%5D%2Fsrc%2Fapp%2Fglobals.css%20%5Bapp-client%5D%20%28css%29&body=Turbopack%20version%3A%20%6023c46498%60%0ANext.js%20version%3A%20%600.0.0%60%0A%0AError%20message%3A%0A%60%60%60%0A%5Bproject%5D%2Fsrc%2Fapp%2Fglobals.css%20%5Bapp-client%5D%20%28css%29%0A%0ACaused%20by%3A%0A-%20reading%20file%20D%3A%5CFull_Stack%20Dev%5CAI%20Projects%5Cnovaflow-ai%5C.next%5Cdev%5Cbuild%5Cchunks%5C%5Bturbopack-node%5D_transforms_postcss_ts_6920245c._.js%0A-%20Insufficient%20system%20resources%20exist%20to%20complete%20the%20requested%20service.%20%28os%20error%201450%29%0A%0ADebug%20info%3A%0A-%20Execution%20of%20subscribe_issues_and_diags_operation%20failed%0A-%20Execution%20of%20%3CAppEndpoint%20as%20Endpoint%3E%3A%3Aserver_changed%20failed%0A-%20Execution%20of%20%2AProject%3A%3Aserver_changed%20failed%0A-%20Execution%20of%20%2AAppEndpointOutput%3A%3Aserver_assets%20failed%0A-%20Execution%20of%20AppEndpoint%3A%3Aoutput%20failed%0A-%20Execution%20of%20AppProject%3A%3Aapp_module_graphs%20failed%0A-%20Execution%20of%20%2A%3CAppEndpoint%20as%20Endpoint%3E%3A%3Aadditional_entries%20failed%0A-%20Execution%20of%20%2AModuleGraph%3A%3Afrom_graphs%20failed%0A-%20Execution%20of%20SingleModuleGraph%3A%3Anew_with_entries_visited_intern%20failed%0A-%20%5Bproject%5D%2Fsrc%2Fapp%2Fglobals.css%20%5Bapp-client%5D%20%28css%29%0A-%20Execution%20of%20primary_chunkable_referenced_modules%20failed%0A-%20Execution%20of%20%3CCssModuleAsset%20as%20Module%3E%3A%3Areferences%20failed%0A-%20Execution%20of%20parse_css%20failed%0A-%20Execution%20of%20%3CPostCssTransformedAsset%20as%20Asset%3E%3A%3Acontent%20failed%0A-%20Execution%20of%20PostCssTransformedAsset%3A%3Aprocess%20failed%0A-%20Execution%20of%20evaluate_webpack_loader%20failed%0A-%20Execution%20of%20get_evaluate_pool%20failed%0A-%20reading%20file%20D%3A%5CFull_Stack%20Dev%5CAI%20Projects%5Cnovaflow-ai%5C.next%5Cdev%5Cbuild%5Cchunks%5C%5Bturbopack-node%5D_transforms_postcss_ts_6920245c._.js%0A-%20Insufficient%20system%20resources%20exist%20to%20complete%20the%20requested%20service.%20%28os%20error%201450%29%0A%60%60%60&labels=Turbopack,Turbopack%20Panic%20Backtrace\clicking here.]8;;\
+-----
+
+Error: Can't resolve 'tailwindcss' in 'D:\Full_Stack Dev\AI Projects'
+    [2m[at finishWithoutResolve (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:586:18)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:678:14][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\enhanced-resolve\lib\Resolver.js:739:5][0m
+    [2m[at eval (eval at create (D:\Full_Stack Dev\AI Projects\novaflow-ai\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'D:\\Full_Stack Dev\\AI Projects'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in D:\\Full_Stack Dev\\AI Projects or above\n' +
+    '  resolve as module\n' +
+    "    D:\\Full_Stack Dev\\AI Projects\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\Full_Stack Dev\\node_modules doesn't exist or is not a directory\n" +
+    "    D:\\node_modules doesn't exist or is not a directory"
+}
+^C^C
