@@ -42,6 +42,13 @@
 
   --font-sans: var(--font-inter);
   --font-display: var(--font-outfit);
+
+  --animate-robot-float: robot-float 3s ease-in-out infinite;
+}
+
+@keyframes robot-float {
+  0%, 100% { transform: translateY(0px); }
+  50%       { transform: translateY(-8px); }
 }
 
 body {

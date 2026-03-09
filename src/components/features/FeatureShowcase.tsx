@@ -5,6 +5,7 @@ import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { Bot, Workflow, Puzzle, Cpu, Users } from "lucide-react";
 import { PixelCanvas } from "@/components/ui/pixel-canvas";
+import { AnimatedBeamDemo } from "@/components/ui/animated-beam-demo";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -122,6 +123,12 @@ export function FeatureShowcase() {
                                 <div className="w-16 h-16 rounded-2xl bg-muted/10 flex items-center justify-center mb-8 group-hover:scale-110 transition-transform duration-300 border border-border/50">
                                     {feature.icon}
                                 </div>
+
+                                {index === 0 && (
+                                    <div className="flex justify-center items-center">
+                                        <AnimatedBeamDemo />
+                                    </div>
+                                )}
 
                                 <div className="mt-auto">
                                     <h3 className={`font-display font-bold mb-3 ${index === 0 ? "text-3xl" : "text-xl"}`}>
