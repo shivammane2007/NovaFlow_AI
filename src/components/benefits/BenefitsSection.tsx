@@ -133,7 +133,7 @@ export function BenefitsSection() {
                     </div>
 
                     {/* Right: Benefit Cards Grid */}
-                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 relative">
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 relative items-stretch auto-rows-fr">
                         <div className="absolute inset-0 bg-gold/5 blur-3xl -z-10 rounded-full" />
 
                         {benefits.map((benefit, index) => (
@@ -142,7 +142,7 @@ export function BenefitsSection() {
                                 ref={(el) => {
                                     if (el) cardsRef.current[index] = el;
                                 }}
-                                className={`group relative p-6 rounded-2xl border border-border bg-background/50 backdrop-blur-sm shadow-xl hover:border-gold/30 transition-colors overflow-hidden ${index % 2 === 1 ? "sm:mt-12" : ""
+                                className={`group relative h-full p-6 rounded-2xl border border-border bg-background/50 backdrop-blur-sm shadow-xl hover:border-gold/30 transition-colors overflow-hidden ${index % 2 === 1 ? "sm:mt-12" : ""
                                     }`}
                             >
                                 <PixelCanvas
@@ -152,7 +152,7 @@ export function BenefitsSection() {
                                     className="absolute inset-0 opacity-0 group-hover:opacity-30 transition-opacity duration-700"
                                 />
 
-                                <div className="relative z-10">
+                                <div className="relative z-10 flex h-full flex-col">
                                     <div className="w-12 h-12 rounded-full bg-card border border-border flex items-center justify-center mb-6 shadow-sm">
                                         {benefit.icon}
                                     </div>

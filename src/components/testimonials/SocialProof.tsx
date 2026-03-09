@@ -3,7 +3,7 @@
 import React, { useEffect, useRef } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { Star } from "lucide-react";
+import { TestimonialsColumn } from "@/components/ui/testimonials-columns-1";
 
 const testimonials = [
     {
@@ -28,6 +28,17 @@ const testimonials = [
 
 const logos = ["Vercel", "Acme Corp", "Global Reach", "Stripe", "NextJS", "Github", "Notion", "Figma", "OpenAI", "Anthropic"];
 
+const repeatedTestimonials = Array.from({ length: 3 }, (_, groupIndex) =>
+    testimonials.map((testimonial, testimonialIndex) => ({
+        ...testimonial,
+        id: `${testimonial.author}-${groupIndex}-${testimonialIndex}`,
+    }))
+).flat();
+
+const firstColumn = repeatedTestimonials.filter((_, index) => index % 3 === 0);
+const secondColumn = repeatedTestimonials.filter((_, index) => index % 3 === 1);
+const thirdColumn = repeatedTestimonials.filter((_, index) => index % 3 === 2);
+
 export function SocialProof() {
     const containerRef = useRef<HTMLDivElement>(null);
     const marqueeRef = useRef<HTMLDivElement>(null);
@@ -46,7 +57,7 @@ export function SocialProof() {
 
             // Fade up testimonials on scroll
             gsap.fromTo(
-                ".testimonial-card",
+                ".testimonials-columns",
                 { y: 50, opacity: 0 },
                 {
                     y: 0,
@@ -93,35 +104,10 @@ export function SocialProof() {
                     </p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-                    {testimonials.map((testimonial, i) => (
-                        <div key={i} className="testimonial-card p-8 rounded-2xl bg-background border border-border shadow-lg relative group transition-all hover:-translate-y-2 hover:border-gold/30">
-                            {/* Decorative quote mark */}
-                            <div className="absolute top-6 right-6 text-6xl font-serif text-muted/20 group-hover:text-gold/10 transition-colors">
-                                &quot;
-                            </div>
-
-                            <div className="flex gap-1 mb-6">
-                                {[1, 2, 3, 4, 5].map((star) => (
-                                    <Star key={star} className="w-4 h-4 text-gold fill-gold" />
-                                ))}
-                            </div>
-
-                            <p className="text-foreground/90 font-medium leading-relaxed mb-8 relative z-10">
-                                "{testimonial.quote}"
-                            </p>
-
-                            <div className="flex items-center gap-4 mt-auto">
-                                <div className="w-12 h-12 rounded-full bg-muted/20 flex items-center justify-center font-display font-bold text-lg text-foreground border border-border">
-                                    {testimonial.initial}
-                                </div>
-                                <div>
-                                    <h4 className="font-bold text-sm">{testimonial.author}</h4>
-                                    <p className="text-xs text-muted-foreground">{testimonial.role}</p>
-                                </div>
-                            </div>
-                        </div>
-                    ))}
+                <div className="testimonials-columns mt-10 flex max-h-[740px] justify-center gap-6 overflow-hidden [mask-image:linear-gradient(to_bottom,transparent,black_20%,black_80%,transparent)]">
+                    <TestimonialsColumn testimonials={firstColumn} duration={15} />
+                    <TestimonialsColumn testimonials={secondColumn} className="hidden md:block" duration={19} />
+                    <TestimonialsColumn testimonials={thirdColumn} className="hidden lg:block" duration={17} />
                 </div>
             </div>
         </section>
