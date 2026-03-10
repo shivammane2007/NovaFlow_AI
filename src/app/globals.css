@@ -3,17 +3,15 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
-  /* Light Mode Colors (Warm Beige, Off-White) */
-  --background: #fbf8f1;
-  /* Off-white / light beige */
-  --foreground: #1c1c1c;
-  /* Charcoal / Black for text */
+  /* Light Mode Colors (Clean SaaS) */
+  --background: #f9fafb;
+  --foreground: #0f172a;
   --card-bg: #ffffff;
-  --border-color: #e5e0d8;
+  --border-color: #e6e8ec;
   --accent-gold: #d4af37;
-  --accent-gold-hover: #b5952f;
+  --accent-gold-hover: #c59b2c;
 
-  --muted: #8c8c8c;
+  --muted: #64748b;
 }
 
 .dark {
@@ -303,4 +301,24 @@ h6 {
 
 .animate-accordion-up {
   animation: accordion-up 1.5s ease forwards;
+}
+
+.shadow-soft {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+}
+
+/* ── Responsive hero button sizing ─────────────────────── */
+@media (max-width: 639px) {
+  .shiny-cta {
+    padding: 0.875rem 1.75rem;
+    font-size: 0.9375rem;
+  }
+}
+
+/* Tablet & foldable (640px–1023px) */
+@media (min-width: 640px) and (max-width: 1023px) {
+  .shiny-cta {
+    padding: 1rem 2rem;
+    font-size: 1rem;
+  }
 }

@@ -60,8 +60,8 @@ export function Hero() {
             <div className="absolute inset-0 pointer-events-none z-0 overflow-hidden clip-hero">
                 <BackgroundPaths />
                 <div className="absolute inset-0 flex items-center justify-center opacity-30 dark:opacity-20 z-10">
-                    <div className="bg-shape absolute w-[600px] h-[600px] rounded-full blur-[120px] bg-gold/20 -top-[20%] -left-[10%] mix-blend-multiply dark:mix-blend-screen" />
-                    <div className="bg-shape absolute w-[500px] h-[500px] rounded-full blur-[100px] bg-foreground/10 top-[40%] -right-[15%] mix-blend-multiply dark:mix-blend-screen" />
+                    <div className="bg-shape absolute w-[280px] h-[280px] sm:w-[400px] sm:h-[400px] md:w-[480px] md:h-[480px] lg:w-[600px] lg:h-[600px] rounded-full blur-[80px] lg:blur-[120px] bg-gold/20 -top-[20%] -left-[10%] mix-blend-multiply dark:mix-blend-screen" />
+                    <div className="bg-shape absolute w-[220px] h-[220px] sm:w-[350px] sm:h-[350px] md:w-[380px] md:h-[380px] lg:w-[500px] lg:h-[500px] rounded-full blur-[70px] lg:blur-[100px] bg-foreground/10 top-[40%] -right-[15%] mix-blend-multiply dark:mix-blend-screen" />
                 </div>
             </div>
 
@@ -75,7 +75,7 @@ export function Hero() {
                 {/* Headline */}
                 <h1
                     ref={headlineRef}
-                    className="text-5xl md:text-7xl lg:text-8xl font-display font-bold max-w-5xl leading-tight md:leading-tight lg:leading-tight tracking-tight mb-6 opacity-0"
+                    className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-display font-bold max-w-5xl leading-tight tracking-tight mb-5 sm:mb-6 opacity-0"
                 >
                     Build smarter. <br /> Launch <span className="text-gold">faster.</span>
                 </h1>
@@ -83,7 +83,7 @@ export function Hero() {
                 {/* Text */}
                 <p
                     ref={textRef}
-                    className="text-lg md:text-xl text-muted-foreground max-w-2xl mb-10 opacity-0 leading-relaxed"
+                    className="text-base sm:text-lg md:text-xl text-muted-foreground max-w-2xl mb-6 sm:mb-8 md:mb-8 lg:mb-10 opacity-0 leading-relaxed"
                 >
                     Create, customize, and deploy AI agents without coding. NovaFlow AI combines your favorite tools into one powerful, automated workforce.
                 </p>
@@ -116,7 +116,7 @@ export function Hero() {
                             </div>
                         </div>
                         {/* Window Body Mock */}
-                        <div className="flex-1 p-8 flex gap-6 bg-grid-slate-900/[0.04] dark:bg-grid-slate-100/[0.03]">
+                        <div className="flex-1 p-3 sm:p-5 md:p-5 lg:p-8 flex gap-6 bg-grid-slate-900/[0.04] dark:bg-grid-slate-100/[0.03]">
                             {/* Sidebar */}
                             <div className="w-48 hidden md:flex flex-col gap-3">
                                 <div className="h-8 bg-muted/20 rounded w-full" />
@@ -128,7 +128,7 @@ export function Hero() {
                             {/* Main Canvas */}
                             <div className="flex-1 border border-border/50 bg-background/50 rounded-xl flex items-center justify-center relative overflow-hidden">
                                 <div className="absolute w-64 h-64 bg-gold/10 rounded-full blur-3xl" />
-                                <div className="flex flex-col items-center gap-4 z-10 glass-card p-6 rounded-2xl border border-border/50 bg-card/60 backdrop-blur-md shadow-xl">
+                                <div className="flex flex-col items-center gap-3 z-10 glass-card p-3 sm:p-4 md:p-4 lg:p-6 rounded-2xl border border-border/50 bg-card/60 backdrop-blur-md shadow-xl">
                                     <Sparkles className="w-8 h-8 text-gold" />
                                     <div className="text-center">
                                         <div className="font-semibold text-foreground">ResearchBot Active</div>
@@ -137,7 +137,7 @@ export function Hero() {
                                     {/* Mock progress bar */}
                                     <div className="w-full h-1.5 bg-muted/30 rounded-full overflow-hidden mt-2">
                                         <div className="h-full bg-gold w-2/3 rounded-full relative">
-                                            <div className="absolute inset-0 bg-white/30 animate-pulse" />
+                                            <div className="absolute inset-0 bg-background/40 animate-pulse" />
                                         </div>
                                     </div>
                                 </div>

@@ -24,7 +24,7 @@ const CustomSlider = ({
   return (
     <motion.div
       className={cn(
-        "relative w-full h-1 bg-white/20 rounded-full cursor-pointer",
+        "relative w-full h-1 bg-foreground/20 rounded-full cursor-pointer",
         className
       )}
       onClick={(e) => {
@@ -35,7 +35,7 @@ const CustomSlider = ({
       }}
     >
       <motion.div
-        className="absolute top-0 left-0 h-full bg-white rounded-full"
+        className="absolute top-0 left-0 h-full bg-foreground rounded-full"
         style={{ width: `${value}%` }}
         initial={{ width: 0 }}
         animate={{ width: `${value}%` }}
@@ -118,7 +118,7 @@ const VideoPlayer = ({ src }: { src: string }) => {
 
   return (
     <motion.div
-      className="relative w-full rounded-xl overflow-hidden bg-[#11111198] shadow-[0_0_20px_rgba(0,0,0,0.2)] backdrop-blur-sm"
+      className="relative w-full rounded-xl overflow-hidden bg-card/75 text-foreground shadow-[0_0_20px_rgba(0,0,0,0.2)] backdrop-blur-sm"
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
@@ -136,14 +136,14 @@ const VideoPlayer = ({ src }: { src: string }) => {
       <AnimatePresence>
         {showControls && (
           <motion.div
-            className="absolute bottom-0 mx-auto max-w-xl left-0 right-0 p-4 m-2 bg-[#11111198] backdrop-blur-md rounded-2xl"
+            className="absolute bottom-0 mx-auto max-w-xl left-0 right-0 p-4 m-2 bg-card/85 backdrop-blur-md rounded-2xl border border-border/60"
             initial={{ y: 20, opacity: 0, filter: "blur(10px)" }}
             animate={{ y: 0, opacity: 1, filter: "blur(0px)" }}
             exit={{ y: 20, opacity: 0, filter: "blur(10px)" }}
             transition={{ duration: 0.6, ease: "circInOut", type: "spring" }}
           >
             <div className="flex items-center gap-2 mb-2">
-              <span className="text-white text-sm">
+              <span className="text-foreground text-sm">
                 {formatTime(currentTime)}
               </span>
               <CustomSlider
@@ -151,7 +151,7 @@ const VideoPlayer = ({ src }: { src: string }) => {
                 onChange={handleSeek}
                 className="flex-1"
               />
-              <span className="text-white text-sm">{formatTime(duration)}</span>
+              <span className="text-foreground text-sm">{formatTime(duration)}</span>
             </div>
 
             <div className="flex items-center justify-between">
@@ -164,7 +164,7 @@ const VideoPlayer = ({ src }: { src: string }) => {
                     onClick={togglePlay}
                     variant="ghost"
                     size="icon"
-                    className="text-white hover:bg-[#111111d1] hover:text-white"
+                    className="text-foreground hover:bg-foreground/10 hover:text-foreground"
                   >
                     {isPlaying ? (
                       <Pause className="h-5 w-5" />
@@ -182,7 +182,7 @@ const VideoPlayer = ({ src }: { src: string }) => {
                       onClick={toggleMute}
                       variant="ghost"
                       size="icon"
-                      className="text-white hover:bg-[#111111d1] hover:text-white"
+                      className="text-foreground hover:bg-foreground/10 hover:text-foreground"
                     >
                       {isMuted ? (
                         <VolumeX className="h-5 w-5" />
@@ -215,8 +215,8 @@ const VideoPlayer = ({ src }: { src: string }) => {
                       variant="ghost"
                       size="icon"
                       className={cn(
-                        "text-white hover:bg-[#111111d1] hover:text-white",
-                        playbackSpeed === speed && "bg-[#111111d1]"
+                        "text-foreground hover:bg-foreground/10 hover:text-foreground",
+                        playbackSpeed === speed && "bg-foreground/10"
                       )}
                     >
                       {speed}x

@@ -42,18 +42,6 @@ export function BenefitsSection() {
 
     useEffect(() => {
         const ctx = gsap.context(() => {
-            // Animate background color slightly on enter
-            gsap.to(containerRef.current, {
-                backgroundColor: "var(--card-bg)",
-                scrollTrigger: {
-                    trigger: containerRef.current,
-                    start: "top center",
-                    end: "bottom center",
-                    toggleActions: "play reverse play reverse",
-                },
-                duration: 1,
-            });
-
             // Animate counters
             countersRef.current.forEach((counter, i) => {
                 if (!counter) return;
@@ -99,7 +87,7 @@ export function BenefitsSection() {
     }, []);
 
     return (
-        <section id="benefits" ref={containerRef} className="py-24 relative overflow-hidden">
+        <section id="benefits" ref={containerRef} className="py-24 relative overflow-hidden bg-background text-foreground">
             <div className="container mx-auto px-4 max-w-7xl">
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
                     {/* Left: Text & Stats */}
