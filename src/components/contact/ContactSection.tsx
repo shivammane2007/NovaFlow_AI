@@ -7,8 +7,6 @@ export default function ContactSection() {
     return (
         <section id="contact" className="px-6 py-12 md:py-24 flex items-center justify-center bg-background relative">
             <div className="max-w-6xl w-full grid md:grid-cols-2 gap-16 relative z-10">
-
-                {/* LEFT INFO PANEL */}
                 <div className="space-y-8">
                     <h1 className="text-5xl md:text-6xl font-display font-bold tracking-tight text-foreground">
                         Contact <span className="text-gold">Us</span>
@@ -20,7 +18,6 @@ export default function ContactSection() {
                     </p>
 
                     <div className="space-y-6 pt-6">
-
                         <div className="flex items-center gap-4 group cursor-pointer w-fit">
                             <div className="w-12 h-12 rounded-full bg-gold/10 flex items-center justify-center border border-gold/20 group-hover:bg-gold/20 transition-colors">
                                 <Mail className="w-5 h-5 text-gold" />
@@ -41,16 +38,11 @@ export default function ContactSection() {
                             </div>
                             <p className="text-foreground/80 font-medium group-hover:text-foreground transition-colors">Pune, Maharashtra, India</p>
                         </div>
-
                     </div>
                 </div>
 
-
-                {/* CONTACT FORM */}
                 <div className="bg-card/80 backdrop-blur-xl border border-border/60 rounded-[2.5rem] p-8 md:p-10 shadow-xl shadow-foreground/5 hover:border-gold/30 transition-colors">
-
                     <form className="space-y-6" onSubmit={(e) => { e.preventDefault(); alert("Thanks for your message! Our team will get back to you shortly."); }}>
-
                         <div>
                             <label className="text-sm font-medium text-foreground/80 uppercase tracking-wider">Full Name</label>
                             <input
@@ -87,11 +79,12 @@ export default function ContactSection() {
                         >
                             Send Message
                         </ShinyButton>
-
                     </form>
-
                 </div>
+            </div>
 
+            <div className="fixed inset-0 pointer-events-none z-0 overflow-hidden mix-blend-screen opacity-30 dark:opacity-20 flex items-center justify-center">
+                <div className="absolute w-[600px] h-[600px] rounded-full blur-[120px] bg-gold/10 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2" />
             </div>
         </section>
     );

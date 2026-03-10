@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { ThemeToggle } from "@/components/ThemeToggle";
 import { Menu, X } from "lucide-react";
 import { ShinyButton } from "@/components/ui/shiny-button";
@@ -55,9 +56,14 @@ export function Navbar() {
                 <div className="flex items-center justify-between">
                     <div className="flex items-center">
                         <Link href="/" className="flex items-center gap-2 group">
-                            <div className="w-8 h-8 rounded bg-gold text-background flex items-center justify-center font-bold text-xl transition-transform group-hover:scale-105">
-                                N
-                            </div>
+                            <Image
+                                src="/logo/novaflow_logo.jpeg"
+                                alt="NovaFlow AI"
+                                width={36}
+                                height={36}
+                                className="h-9 w-9 rounded object-contain transition-transform group-hover:scale-105"
+                                priority
+                            />
                             <span className="font-display font-bold text-xl tracking-tight text-foreground">
                                 NovaFlow <span className="text-gold">AI</span>
                             </span>

@@ -16,6 +16,9 @@ const outfit = Outfit({
 export const metadata: Metadata = {
   title: "NovaFlow AI",
   description: "Build smarter. Launch faster. Your personal AI workforce.",
+  icons: {
+    icon: "/logo/novaflow_logo.jpeg",
+  },
 };
 
 export default function RootLayout({

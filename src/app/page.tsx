@@ -6,6 +6,7 @@ import { BenefitsSection } from "@/components/benefits/BenefitsSection";
 import PricingSection from "@/components/pricing/PricingSection";
 import { FAQSection } from "@/components/faq/FAQSection";
 import { SocialProof } from "@/components/testimonials/SocialProof";
+import VideoSection from "@/components/video/VideoSection";
 import ContactSection from "@/components/contact/ContactSection";
 import { CallToAction } from "@/components/cta/CallToAction";
 import { Footer } from "@/components/footer/Footer";
@@ -22,6 +23,7 @@ export default function Home() {
         <PricingSection />
         <FAQSection />
         <SocialProof />
+        <VideoSection />
         <ContactSection />
         <CallToAction />
       </main>

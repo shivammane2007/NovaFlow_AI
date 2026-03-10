@@ -39,10 +39,17 @@ const firstColumn = repeatedTestimonials.filter((_, index) => index % 3 === 0);
 const secondColumn = repeatedTestimonials.filter((_, index) => index % 3 === 1);
 const thirdColumn = repeatedTestimonials.filter((_, index) => index % 3 === 2);
 
+const SPEED_MULTIPLIER_FAST = 1.6;
 export function SocialProof() {
     const containerRef = useRef<HTMLDivElement>(null);
     const marqueeRef = useRef<HTMLDivElement>(null);
-    const [pausedColumn, setPausedColumn] = useState<number | null>(null);
+    const [hoveredColumn, setHoveredColumn] = useState<number | null>(null);
+
+    const getSpeedMultiplier = (index: number) => {
+        if (hoveredColumn === null) return 1;
+        if (hoveredColumn === index) return 1;
+        return SPEED_MULTIPLIER_FAST;
+    };
 
     useEffect(() => {
         const ctx = gsap.context(() => {
@@ -109,25 +116,28 @@ export function SocialProof() {
                     <TestimonialsColumn
                         testimonials={firstColumn}
                         duration={15}
-                        activeDuration={pausedColumn === 0 ? 0 : pausedColumn !== null ? 10 : undefined}
-                        onMouseEnter={() => setPausedColumn(0)}
-                        onMouseLeave={() => setPausedColumn(null)}
+                        isPaused={hoveredColumn === 0}
+                        speedMultiplier={getSpeedMultiplier(0)}
+                        onMouseEnter={() => setHoveredColumn(0)}
+                        onMouseLeave={() => setHoveredColumn(null)}
                     />
                     <TestimonialsColumn
                         testimonials={secondColumn}
                         className="hidden md:block"
                         duration={19}
-                        activeDuration={pausedColumn === 1 ? 0 : pausedColumn !== null ? 10 : undefined}
-                        onMouseEnter={() => setPausedColumn(1)}
-                        onMouseLeave={() => setPausedColumn(null)}
+                        isPaused={hoveredColumn === 1}
+                        speedMultiplier={getSpeedMultiplier(1)}
+                        onMouseEnter={() => setHoveredColumn(1)}
+                        onMouseLeave={() => setHoveredColumn(null)}
                     />
                     <TestimonialsColumn
                         testimonials={thirdColumn}
                         className="hidden lg:block"
                         duration={17}
-                        activeDuration={pausedColumn === 2 ? 0 : pausedColumn !== null ? 10 : undefined}
-                        onMouseEnter={() => setPausedColumn(2)}
-                        onMouseLeave={() => setPausedColumn(null)}
+                        isPaused={hoveredColumn === 2}
+                        speedMultiplier={getSpeedMultiplier(2)}
+                        onMouseEnter={() => setHoveredColumn(2)}
+                        onMouseLeave={() => setHoveredColumn(null)}
                     />
                 </div>
             </div>

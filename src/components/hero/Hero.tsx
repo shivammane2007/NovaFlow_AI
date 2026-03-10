@@ -4,6 +4,7 @@ import React, { useEffect, useRef } from "react";
 import { gsap } from "gsap";
 import { ArrowRight, Sparkles } from "lucide-react";
 import { ShinyButton } from "@/components/ui/shiny-button";
+import { ContainerScroll } from "@/components/ui/container-scroll-animation";
 import { motion } from "framer-motion";
 import Link from "next/link";
 import { BackgroundPaths } from "./background-paths";
@@ -13,7 +14,6 @@ export function Hero() {
     const headlineRef = useRef<HTMLHeadingElement>(null);
     const textRef = useRef<HTMLParagraphElement>(null);
     const ctaRef = useRef<HTMLDivElement>(null);
-    const mockUpRef = useRef<HTMLDivElement>(null);
 
     useEffect(() => {
         // Basic GSAP context for cleanup
@@ -36,23 +36,7 @@ export function Hero() {
                     { y: 20, opacity: 0 },
                     { y: 0, opacity: 1, duration: 0.8 },
                     "-=0.4"
-                )
-                .fromTo(
-                    mockUpRef.current,
-                    { scale: 0.95, opacity: 0, y: 120 },
-                    { scale: 1, opacity: 1, y: 0, duration: 1, ease: "power3.out" },
-                    "-=0.6"
                 );
-
-            // Subtle continuous floating animation for the mockup
-            gsap.to(mockUpRef.current, {
-                y: -15,
-                duration: 2,
-                repeat: -1,
-                yoyo: true,
-                ease: "sine.inOut",
-                delay: 1.5,
-            });
 
             // Background shapes animation
             gsap.to(".bg-shape", {
@@ -73,7 +57,7 @@ export function Hero() {
             className="relative min-h-screen flex text-center justify-center items-center pt-24 overflow-hidden"
         >
             {/* Animated Background Elements */}
-            <div className="absolute inset-0 pointer-events-none z-0 overflow-hidden">
+            <div className="absolute inset-0 pointer-events-none z-0 overflow-hidden clip-hero">
                 <BackgroundPaths />
                 <div className="absolute inset-0 flex items-center justify-center opacity-30 dark:opacity-20 z-10">
                     <div className="bg-shape absolute w-[600px] h-[600px] rounded-full blur-[120px] bg-gold/20 -top-[20%] -left-[10%] mix-blend-multiply dark:mix-blend-screen" />
@@ -118,9 +102,10 @@ export function Hero() {
                 </div>
 
                 {/* Interactive mock interface visualization */}
-                <div ref={mockUpRef} className="mt-16 sm:mt-24 w-full max-w-5xl opacity-0 relative z-20">
-                    <div className="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent z-10 pointer-events-none" />
-                    <div className="relative rounded-2xl md:rounded-3xl border border-border bg-card shadow-2xl overflow-hidden aspect-[16/9] flex flex-col">
+                <ContainerScroll
+                    titleComponent={<></>}
+                >
+                    <div className="relative rounded-2xl md:rounded-3xl border border-border bg-card shadow-2xl overflow-hidden h-full flex flex-col">
                         {/* Window Header */}
                         <div className="h-12 border-b border-border bg-muted/5 flex items-center px-4 gap-2">
                             <div className="w-3 h-3 rounded-full bg-red-400/80" />
@@ -159,7 +144,7 @@ export function Hero() {
                             </div>
                         </div>
                     </div>
-                </div>
+                </ContainerScroll>
             </div>
         </section>
     );

@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { Twitter, Github, Linkedin, MessageCircle } from "lucide-react";
 
 export function Footer() {
@@ -13,9 +14,13 @@ export function Footer() {
                     {/* Brand Col */}
                     <div className="md:col-span-1">
                         <Link href="/" className="flex items-center gap-2 group mb-6">
-                            <div className="w-8 h-8 rounded bg-gold text-background flex items-center justify-center font-bold text-xl">
-                                N
-                            </div>
+                            <Image
+                                src="/logo/novaflow_logo.jpeg"
+                                alt="NovaFlow AI"
+                                width={36}
+                                height={36}
+                                className="h-9 w-9 rounded object-contain"
+                            />
                             <span className="font-display font-bold text-xl tracking-tight text-foreground">
                                 NovaFlow <span className="text-gold">AI</span>
                             </span>

@@ -1,8 +1,6 @@
-"use client";
+import { PricingSection as PricingBlock } from "@/components/ui/pricing";
 
-import { PricingSection as PricingUI } from "@/components/ui/pricing";
-
-const plans = [
+const pricingPlans = [
     {
         name: "Starter",
         price: "50",
@@ -53,11 +51,11 @@ const plans = [
     },
 ];
 
-export default function PricingPageSection() {
+export default function PricingSection() {
     return (
         <section id="pricing">
-            <PricingUI
-                plans={plans}
+            <PricingBlock
+                plans={pricingPlans}
                 title="Find the Perfect Plan"
                 description="Select the ideal package for your needs and start building today."
             />
