@@ -65,7 +65,7 @@ export function Hero() {
                 </div>
             </div>
 
-            <div className="container mx-auto px-4 z-10 flex flex-col items-center">
+            <div className="relative container mx-auto px-4 z-10 flex flex-col items-center">
                 {/* Badge */}
                 <div className="inline-flex flex-row items-center gap-2 px-4 py-2 rounded-full border border-border bg-card/50 backdrop-blur-sm text-sm font-medium mb-8">
                     <Sparkles className="h-4 w-4 text-gold" />
