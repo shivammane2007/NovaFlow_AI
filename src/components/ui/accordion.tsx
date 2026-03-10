@@ -44,10 +44,10 @@ const AccordionContent = React.forwardRef<
 >(({ className, children, ...props }, ref) => (
     <AccordionPrimitive.Content
         ref={ref}
-        className="group grid overflow-hidden text-sm transition-[grid-template-rows,opacity] duration-[2500ms] ease-in-out data-[state=closed]:grid-rows-[0fr] data-[state=closed]:opacity-0 data-[state=open]:grid-rows-[1fr] data-[state=open]:opacity-100"
+        className="group grid overflow-hidden text-sm transition-[grid-template-rows,opacity] duration-[1500ms] ease-in-out data-[state=closed]:grid-rows-[0fr] data-[state=closed]:opacity-0 data-[state=open]:grid-rows-[1fr] data-[state=open]:opacity-100"
         {...props}
     >
-        <div className={cn("overflow-hidden pb-6 pt-0 transition-[transform,opacity] duration-[2500ms] ease-in-out group-data-[state=closed]:-translate-y-3 group-data-[state=closed]:opacity-0 group-data-[state=open]:translate-y-0 group-data-[state=open]:opacity-100", className)}>{children}</div>
+        <div className={cn("overflow-hidden pb-6 pt-0 transition-[transform,opacity] duration-[1500ms] ease-in-out group-data-[state=closed]:-translate-y-3 group-data-[state=closed]:opacity-0 group-data-[state=open]:translate-y-0 group-data-[state=open]:opacity-100", className)}>{children}</div>
     </AccordionPrimitive.Content>
 ));
 

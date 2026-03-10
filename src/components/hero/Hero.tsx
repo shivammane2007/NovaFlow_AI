@@ -39,8 +39,8 @@ export function Hero() {
                 )
                 .fromTo(
                     mockUpRef.current,
-                    { scale: 0.9, opacity: 0, y: 40 },
-                    { scale: 1, opacity: 1, y: 0, duration: 1, ease: "back.out(1.2)" },
+                    { scale: 0.95, opacity: 0, y: 120 },
+                    { scale: 1, opacity: 1, y: 0, duration: 1, ease: "power3.out" },
                     "-=0.6"
                 );
 
@@ -118,7 +118,7 @@ export function Hero() {
                 </div>
 
                 {/* Interactive mock interface visualization */}
-                <div ref={mockUpRef} className="mt-16 sm:mt-24 w-full max-w-5xl opacity-0 relative">
+                <div ref={mockUpRef} className="mt-16 sm:mt-24 w-full max-w-5xl opacity-0 relative z-20">
                     <div className="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent z-10 pointer-events-none" />
                     <div className="relative rounded-2xl md:rounded-3xl border border-border bg-card shadow-2xl overflow-hidden aspect-[16/9] flex flex-col">
                         {/* Window Header */}

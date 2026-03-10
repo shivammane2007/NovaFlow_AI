@@ -1,7 +1,7 @@
 "use client";
 
-import React from "react";
-import { motion } from "framer-motion";
+import React, { useEffect } from "react";
+import { motion, useAnimationControls } from "framer-motion";
 import { Star } from "lucide-react";
 
 import { cn } from "@/lib/utils";
@@ -17,23 +17,45 @@ export function TestimonialsColumn({
     className,
     testimonials,
     duration = 18,
+    activeDuration,
+    onMouseEnter,
+    onMouseLeave,
 }: {
     className?: string;
     testimonials: TestimonialColumnItem[];
     duration?: number;
+    activeDuration?: number;
+    onMouseEnter?: React.MouseEventHandler<HTMLDivElement>;
+    onMouseLeave?: React.MouseEventHandler<HTMLDivElement>;
 }) {
+    const controls = useAnimationControls();
+    const effectiveDuration = activeDuration ?? duration;
+
+    useEffect(() => {
+        if (effectiveDuration === 0) {
+            controls.stop();
+            return;
+        }
+
+        controls.start({
+            translateY: "-50%",
+            transition: {
+                duration: effectiveDuration,
+                repeat: Infinity,
+                ease: "linear",
+                repeatType: "loop",
+            },
+        });
+    }, [controls, effectiveDuration]);
+
     return (
-        <div className={cn("w-full max-w-sm", className)}>
+        <div
+            className={cn("w-full max-w-sm", className)}
+            onMouseEnter={onMouseEnter}
+            onMouseLeave={onMouseLeave}
+        >
             <motion.div
-                animate={{
-                    translateY: "-50%",
-                }}
-                transition={{
-                    duration,
-                    repeat: Infinity,
-                    ease: "linear",
-                    repeatType: "loop",
-                }}
+                animate={controls}
                 className="flex flex-col gap-6 pb-6 will-change-transform"
             >
                 {Array.from({ length: 2 }).map((_, index) => (

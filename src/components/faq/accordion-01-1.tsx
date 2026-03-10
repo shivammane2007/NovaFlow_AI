@@ -76,7 +76,7 @@ export function Accordion01() {
                             </div>
                         </AccordionTrigger>
 
-                        <AccordionContent className="pr-0 text-base leading-relaxed text-muted-foreground md:pr-16">
+                        <AccordionContent className="pr-0 text-base leading-relaxed text-muted-foreground md:pr-16 overflow-hidden data-[state=open]:animate-accordion-down data-[state=closed]:animate-accordion-up">
                             {item.content}
                         </AccordionContent>
                     </AccordionItem>

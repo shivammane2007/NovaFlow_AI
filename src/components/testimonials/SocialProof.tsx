@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useEffect, useRef } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { TestimonialsColumn } from "@/components/ui/testimonials-columns-1";
@@ -42,6 +42,7 @@ const thirdColumn = repeatedTestimonials.filter((_, index) => index % 3 === 2);
 export function SocialProof() {
     const containerRef = useRef<HTMLDivElement>(null);
     const marqueeRef = useRef<HTMLDivElement>(null);
+    const [pausedColumn, setPausedColumn] = useState<number | null>(null);
 
     useEffect(() => {
         const ctx = gsap.context(() => {
@@ -105,9 +106,29 @@ export function SocialProof() {
                 </div>
 
                 <div className="testimonials-columns mt-10 flex max-h-[740px] justify-center gap-6 overflow-hidden [mask-image:linear-gradient(to_bottom,transparent,black_20%,black_80%,transparent)]">
-                    <TestimonialsColumn testimonials={firstColumn} duration={15} />
-                    <TestimonialsColumn testimonials={secondColumn} className="hidden md:block" duration={19} />
-                    <TestimonialsColumn testimonials={thirdColumn} className="hidden lg:block" duration={17} />
+                    <TestimonialsColumn
+                        testimonials={firstColumn}
+                        duration={15}
+                        activeDuration={pausedColumn === 0 ? 0 : pausedColumn !== null ? 10 : undefined}
+                        onMouseEnter={() => setPausedColumn(0)}
+                        onMouseLeave={() => setPausedColumn(null)}
+                    />
+                    <TestimonialsColumn
+                        testimonials={secondColumn}
+                        className="hidden md:block"
+                        duration={19}
+                        activeDuration={pausedColumn === 1 ? 0 : pausedColumn !== null ? 10 : undefined}
+                        onMouseEnter={() => setPausedColumn(1)}
+                        onMouseLeave={() => setPausedColumn(null)}
+                    />
+                    <TestimonialsColumn
+                        testimonials={thirdColumn}
+                        className="hidden lg:block"
+                        duration={17}
+                        activeDuration={pausedColumn === 2 ? 0 : pausedColumn !== null ? 10 : undefined}
+                        onMouseEnter={() => setPausedColumn(2)}
+                        onMouseLeave={() => setPausedColumn(null)}
+                    />
                 </div>
             </div>
         </section>
